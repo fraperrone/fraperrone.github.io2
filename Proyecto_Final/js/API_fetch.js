@@ -5,7 +5,6 @@ $cargando.display = "block";
 $datos.display = "none";
 $picture.display = "none";
 
-console.log($cargando.display);
 /**
  * Fetch
  */
@@ -15,7 +14,6 @@ fetch("https://randomuser.me/api/")
     return post.results[0];
   })
   .then((reg) => {
-    console.log(reg);
     document.getElementById("nombre").innerHTML = "Nombre: " + reg.name.first;
     document.getElementById("apellido").innerHTML =
       "Apellido: " + reg.name.last;
