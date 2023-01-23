@@ -8,5 +8,5 @@ recordar para que la pagina funcione correctamente debe tener acceso internet y 
 Ante dudas o sugerencias, mi contacto: Fperronerey@gmail.com
 
 **************************************************************************
-En la carpeta diseño encontramos el boceto previo.
+
 
